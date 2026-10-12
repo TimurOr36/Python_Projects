@@ -1,0 +1,24 @@
+date,amount,category,description
+01-08-2026,2500.00,Income,Salary
+03-08-2026,60.00,Expense,Groceries
+05-08-2026,45.50,Expense,Transport
+07-08-2026,1200.00,Income,Freelance
+08-08-2026,320.00,Expense,Rent
+10-08-2026,85.00,Expense,Dinner Out
+12-08-2026,500.00,Income,Bonus
+13-08-2026,140.00,Expense,Electricity
+15-08-2026,230.00,Expense,Shopping
+17-08-2026,950.00,Income,Side Hustle
+19-08-2026,75.00,Expense,Pharmacy
+21-08-2026,560.00,Expense,Travel
+22-08-2026,180.00,Income,Refund
+24-08-2026,210.00,Expense,Groceries
+25-08-2026,400.00,Income,Consulting
+27-08-2026,95.00,Expense,Streaming
+28-08-2026,300.00,Expense,Car Fuel
+29-08-2026,600.00,Income,Salary
+30-08-2026,110.00,Expense,Restaurant
+31-08-2026,1500.00,Income,Investment Return
+05-09-2026,100.0,Income,Gift
+12-10-2026,250.0,Income,bonus
+14-09-2026,50.0,Expense,Phone Case
